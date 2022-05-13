@@ -12,4 +12,5 @@
 - Performing pre-processing steps on the obtained frame
 - Obtaining the Contours to draw the Bounding Box
 - Drawing Rectangle (Bounding Box) using these obtained Contours
-- Display the output Frame
+- Adding Alarm sound to ring whenever there is change between these two frames
+- Display the Output Frame
